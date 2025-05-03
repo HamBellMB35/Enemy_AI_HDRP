@@ -1,0 +1,15 @@
+# Visual Studio 2015 user specific files
+.vs/
+
+# Ignore everything
+*
+# Don't ignore directories (so we can still navigate into them)
+!*/
+# Don't ignore the Scripts1 folder
+!1Scripts/
+# Don't ignore files within Scripts1
+!1Scripts/*
+# Don't ignore the Scripts1 folder
+!1Prefab/
+# Don't ignore files within Scripts1
+!1Prefab/*
