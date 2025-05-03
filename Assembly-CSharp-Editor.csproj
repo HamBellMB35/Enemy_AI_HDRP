@@ -61,7 +61,7 @@
     <Analyzer Include="E:\Programs\6000.0.45f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+    <Compile Include="Assets\Other Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1418,6 +1418,10 @@
       <Project>{D287F926-5E5A-FBB0-7A4A-706CBAD8FD2B}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="Opsive.UltimateCharacterController.Demo.csproj">
+      <Project>{933BA037-9424-CB9E-ADD0-BACD7205C3E4}</Project>
+      <Name>Opsive.UltimateCharacterController.Demo</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime.csproj">
       <Project>{9A546796-CBCF-011B-96BF-15ECB2C9F0C0}</Project>
       <Name>Unity.RenderPipelines.HighDefinition.Config.Runtime</Name>
@@ -1426,9 +1430,9 @@
       <Project>{17E5F5C5-4539-FB21-C71E-F1E9CA31E89D}</Project>
       <Name>Opsive.UltimateCharacterController</Name>
     </ProjectReference>
-    <ProjectReference Include="Opsive.UltimateCharacterController.Demo.csproj">
-      <Project>{933BA037-9424-CB9E-ADD0-BACD7205C3E4}</Project>
-      <Name>Opsive.UltimateCharacterController.Demo</Name>
+    <ProjectReference Include="Opsive.UltimateCharacterController.Demo.Editor.csproj">
+      <Project>{F290CC53-72E0-CFCB-F563-A59190A3D770}</Project>
+      <Name>Opsive.UltimateCharacterController.Demo.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Opsive.Shared.Runtime.csproj">
       <Project>{D1922EC4-DBB2-6F18-8C8F-C53BD7371656}</Project>
@@ -1441,10 +1445,6 @@
     <ProjectReference Include="Opsive.Shared.Editor.csproj">
       <Project>{A7B9A664-5441-9B4A-DEA0-6271C5DA6F38}</Project>
       <Name>Opsive.Shared.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Opsive.UltimateCharacterController.Demo.Editor.csproj">
-      <Project>{F290CC53-72E0-CFCB-F563-A59190A3D770}</Project>
-      <Name>Opsive.UltimateCharacterController.Demo.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Opsive.Shared.Editor.Import.csproj">
       <Project>{559FE78D-FE0C-0102-6923-74A88060DA56}</Project>

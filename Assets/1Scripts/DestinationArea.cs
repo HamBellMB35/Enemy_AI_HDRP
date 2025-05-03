@@ -26,7 +26,7 @@ namespace NPCNavigationProJect
 
             Vector3 finalPosition = transform.position;
 
-            if( NavMesh.SamplePosition(randomPoint, out Hit, 2f, 1))
+            if ( NavMesh.SamplePosition(randomPoint, out Hit, 2f, 1))
             {
                 finalPosition = Hit.position;
             } 
