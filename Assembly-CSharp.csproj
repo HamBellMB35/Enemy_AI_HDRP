@@ -75,6 +75,7 @@
     <Compile Include="Assets\Other Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Other Assets\ReversedAssets\City Builder Urban\HDRP\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Other Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
+    <Compile Include="Assets\1Scripts\EnemyGeneator.cs" />
     <Compile Include="Assets\1Scripts\State Machine\State.cs" />
     <Compile Include="Assets\1Scripts\EnemyNPC Scripts\EnemyNPCStroll.cs" />
     <Compile Include="Assets\Other Assets\StarterAssets\ThirdPersonController\Scripts\BasicRigidBodyPush.cs" />
