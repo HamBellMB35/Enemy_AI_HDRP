@@ -96,6 +96,7 @@
     <None Include="Assets\Other Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Other Assets\Samples\Opsive Ultimate Character Controller\3.2.2\Demo\Shaders\OverlayUniversalRP.shader" />
     <None Include="Assets\Other Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
+    <None Include="Assets\CyberJagg5\Stand\Standard_Two_Sided .shader" />
     <None Include="Assets\Other Assets\Opsive\UltimateCharacterController\Integrations\UniversalRP\InvisibleShadowCasterUniversalRP.shader" />
     <None Include="Assets\Other Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\Other Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
