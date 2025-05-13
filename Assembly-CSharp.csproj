@@ -68,10 +68,12 @@
     <Compile Include="Assets\1Scripts\DestinationArea.cs" />
     <Compile Include="Assets\1Scripts\EnemyNPC Scripts\EnemyNPCComponent.cs" />
     <Compile Include="Assets\1Scripts\EnemyNPC Scripts\EnemyNPCAnimator.cs" />
+    <Compile Include="Assets\1Scripts\GroupFormation.cs" />
     <Compile Include="Assets\Other Assets\ReversedAssets\City Builder Urban\HDRP\Scripts\Billboard.cs" />
     <Compile Include="Assets\Other Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
     <Compile Include="Assets\1Scripts\State Machine\StrollingState.cs" />
     <Compile Include="Assets\Other Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
+    <Compile Include="Assets\1Scripts\EnemyNPC Scripts\EnNPCGroupMember.cs" />
     <Compile Include="Assets\Other Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Other Assets\ReversedAssets\City Builder Urban\HDRP\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Other Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
@@ -79,8 +81,10 @@
     <Compile Include="Assets\1Scripts\State Machine\State.cs" />
     <Compile Include="Assets\1Scripts\EnemyNPC Scripts\EnemyNPCStroll.cs" />
     <Compile Include="Assets\Other Assets\StarterAssets\ThirdPersonController\Scripts\BasicRigidBodyPush.cs" />
+    <Compile Include="Assets\1Scripts\EnemyNPC Scripts\NPCGroupManager.cs" />
     <Compile Include="Assets\1Scripts\State Machine\StateMachine.cs" />
     <Compile Include="Assets\Other Assets\StarterAssets\InputSystem\StarterAssetsInputs.cs" />
+    <Compile Include="Assets\1Scripts\EnemyNPC Scripts\Group.cs" />
     <Compile Include="Assets\Other Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
   </ItemGroup>
   <ItemGroup>
