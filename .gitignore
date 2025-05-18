@@ -9,7 +9,12 @@
 !1Scripts/
 # Don't ignore files within Scripts1
 !1Scripts/*
-# Don't ignore the Scripts1 folder
+# Don't ignore the 1Prefab folder
 !1Prefab/
 # Don't ignore files within Scripts1
 !1Prefab/*
+
+
+!1Data
+
+!Data/*
