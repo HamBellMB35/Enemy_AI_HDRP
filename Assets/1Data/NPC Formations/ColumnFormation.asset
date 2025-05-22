@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b78223bb8d8c9b548b75389a419c0af2, type: 3}
   m_Name: ColumnFormation
   m_EditorClassIdentifier: 
-  NPC_Spacing: 3
+  NPC_Spacing: 3.5

@@ -12,7 +12,7 @@ namespace NPCNavigationProJect
         public bool DrawGizmos = false;
 
         [SerializeField]
-        private List<EnemyNPC> groupMembers = new List<EnemyNPC>(); // 1 item is the leader, the resats are followers
+        private List<EnemyNPC> groupMembers = new List<EnemyNPC>(); // 1 member is the leader, the resats are followers
         public List<EnemyNPC> GroupMembers => groupMembers;
         
         [SerializeField]

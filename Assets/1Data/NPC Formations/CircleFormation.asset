@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d823d66e606598f4b8036232fede9f32, type: 3}
   m_Name: CircleFormation
   m_EditorClassIdentifier: 
-  FormationRadius: 5
+  FormationRadius: 3.76
