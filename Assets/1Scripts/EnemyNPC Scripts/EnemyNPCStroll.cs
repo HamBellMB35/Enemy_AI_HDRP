@@ -47,7 +47,7 @@ namespace NPCNavigationProJect
         // Reference to the area where the NPC can find new destinations.
         public DestinationArea DestinationArea;
 
-        // Called when the script instance is being loaded.
+        
         private void Start()
         {
             // If the NPC is set to stroll, randomly choose to start in Strolling or Waiting state.
@@ -64,7 +64,7 @@ namespace NPCNavigationProJect
             }
         }
 
-        // Called once per frame.
+        
         private void Update()
         {
             // If NPC is not set to stroll, do nothing.
@@ -98,7 +98,7 @@ namespace NPCNavigationProJect
             }
         }
 
-        // Selects a random destination point for the NPC.
+        
         void SelectRandomDestination()
         {
             enemyNPC.Agent.SetDestination(DestinationArea.GetRandomDestinationPoint());
