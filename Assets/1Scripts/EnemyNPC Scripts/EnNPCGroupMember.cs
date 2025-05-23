@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using NUnit.Framework;
 using UnityEngine;
 
 
@@ -5,7 +7,7 @@ namespace NPCNavigationProJect
 {
     public class EnNPCGroupMember : EnemyNPCComponent
     {
-
+       
 
         void Update()
         {
@@ -18,7 +20,7 @@ namespace NPCNavigationProJect
             if (enemyNPC.Group.IsGroupLeader(enemyNPC))
             {
 
-                enemyNPC.Strolling = true;
+                enemyNPC.Strolling = true;                                                                   
             }
 
             else

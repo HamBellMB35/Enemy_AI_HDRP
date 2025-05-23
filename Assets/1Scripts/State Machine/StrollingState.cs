@@ -5,7 +5,7 @@ namespace NPCNavigationProJect
 {
     public class StrollingState : State
     {
-
+        EnemyNPCStroll Stroll;
         EnemyNPC EnemyNPC{ get; set; }
 
         DestinationArea DestinationArea { get; set; }
@@ -34,7 +34,10 @@ namespace NPCNavigationProJect
         void SelectRandomDestination()
         {
             EnemyNPC.Agent.SetDestination(DestinationArea.GetRandomDestinationPoint());
+           
         }
+
+
 
 
     }

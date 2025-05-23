@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf8854141c6d02c4fa3ede744b0dcbeb, type: 3}
   m_Name: MatrixFormation
   m_EditorClassIdentifier: 
-  NPC_Spacing: 3.5
-  rowSpacing: 3.67
+  NPC_Spacing: 1.82
+  rowSpacing: 3.38
   charactersWide: 4
+  leaderBufferZone: 5
