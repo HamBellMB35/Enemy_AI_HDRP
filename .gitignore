@@ -16,6 +16,8 @@
 
 /Assets/Other Assets
 /Assets/CyberJagg5
+#include the specific "Alien#3" folder
+!Assets/Other Assets/Alien#3
 
 
 # MemoryCaptures can get excessive in size.
