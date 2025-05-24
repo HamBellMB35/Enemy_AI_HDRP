@@ -15,7 +15,7 @@
 *.log
 
 /Assets/Other Assets
-!Assets/Other Assets/SciFiRiflesBundle4
+!Assets/Other Assets/Alien#3/
 /Assets/CyberJagg5
 #include the specific "Alien#3" folder
 
